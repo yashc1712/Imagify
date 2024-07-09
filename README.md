@@ -3,7 +3,7 @@ AI-Powered Image Generation with DALL-E
 
 
 
-[![OpenAI Image Generator]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.loom.com/share/fdae0b3a681849829ea8f2899fda3244?sid=a7e39596-52fa-4aa5-89b2-ac98c06f2816))
+[![OpenAI Image Generator]([(https://www.loom.com/share/fdae0b3a681849829ea8f2899fda3244?sid=a7e39596-52fa-4aa5-89b2-ac98c06f2816)])
 
 Imagify is an innovative application that leverages the power of OpenAI's DALL-E model to convert text descriptions into stunning visual representations. Whether you're an artist looking for inspiration, a developer exploring AI capabilities, or simply curious about how text can be transformed into images, Imagify offers a seamless and engaging way to generate and explore AI-driven art.
 
