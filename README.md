@@ -1,11 +1,6 @@
 # Imagify
 AI-Powered Image Generation with DALL-E
 
-
-
-[![OpenAI Image Generator]([(https://www.loom.com/share/fdae0b3a681849829ea8f2899fda3244?sid=a7e39596-52fa-4aa5-89b2-ac98c06f2816)])
-
-
 [pastedownload_52Lh5TE.webm](https://github.com/yashc1712/Imagify/assets/161137361/59ed0351-78c2-44c4-8e5b-6980b141cc5a)
 
 Imagify is an innovative application that leverages the power of OpenAI's DALL-E model to convert text descriptions into stunning visual representations. Whether you're an artist looking for inspiration, a developer exploring AI capabilities, or simply curious about how text can be transformed into images, Imagify offers a seamless and engaging way to generate and explore AI-driven art.
